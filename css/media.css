@@ -88,6 +88,7 @@
   }
   .application__item {
     margin-top: 70px;
+    padding-left: 140px;
   }
   .application__img {
     width: 300px;height: 300px;
@@ -275,6 +276,9 @@
             flex: 0 0 50%;
     max-width: 50%;
   }
+  .application__item {
+    padding-left: 130px;
+  }
   .products__img {
     height: 240px;
   }
@@ -403,6 +407,9 @@
   .application {
     padding: 80px 0;
     margin-top: 100px;
+  }
+  .application__item {
+    padding-left: 100px;
   }
   .application__img {
     width: 250px;height: 250px;
@@ -600,6 +607,7 @@
   }
   .application__item {
     margin-top: 50px;
+    padding-left: 90px;
   }
   .application__img {
     width: 210px;height: 210px;

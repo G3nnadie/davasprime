@@ -928,11 +928,10 @@ body {
 
 .certificates__item a {
   color: #000;
-  text-decoration: underline;
 }
 
 .certificates__item a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /* ----------- *Feedback ------------- */
